@@ -1,6 +1,7 @@
 # WarsawES
 This repository contains code snippets for analysis conducted during the preparation of the manuscript "The socio-cultural values of ecosystem services in managed, semi-managed and low-managed urban blue spaces and their surroundings. A case study of Warsaw, Poland", accepted in Cities.
-<br />Preprocessing.R script contains the code used to prepare original data for analysis. Unfortunately, original data cannot be made available publicly as they contain personal data.
+<br />Unfortunately, original data cannot be made available publicly, but can be shared by request.
+<br />Preprocessing.R script contains the code used to prepare original data for analysis and export correlation data (
 <br />Ridges_plots.R script contains the code used to produce Figure 3.
-<br />PCA and K-means clustering.R script contains the code used to produce Figure 5 and Figures S1 and S2.
+<br />PCA and K-means clustering.R script contains the code used to produce Figures 4 and 5, and Figures S1 and S2.
 <br />Heatmaps.R script contains the code used to produce Figures 7 and 9.
